@@ -1,0 +1,51 @@
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuración local del equipo
+settings.json
+
+# Datos de trabajo (no versionar)
+projects/
+outputs/
+temp/
+cache/
+logs/
+
+# Modelos de voz descargados y recursos del usuario
+assets/voices/*
+!assets/voices/README.txt
+assets/music/*
+!assets/music/README.txt
+assets/fonts/*
+!assets/fonts/README.txt
+
+# Archivos temporales y generados
+*.part
+*.part.mp4
+*.tmp
+*.wav
+*.mp4
+*.srt
+*.ass
+muestras_voz/
+.venv-voz/
+assets/voz_referencia/*
+!assets/voz_referencia/LEEME.txt
+
+# Seguridad y extras (añadido antes de publicar)
+.env
+.env.*
+cookies*.txt
+*.bak
+*.m4a
+*.mp3
+*.onnx
+*.onnx.json
+!assets/voices/README.txt
+*.safetensors
+*.pt
+*.bin
+.venv*/
