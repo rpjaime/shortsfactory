@@ -1,0 +1,22 @@
+GRABA TU VOZ DE REFERENCIA
+==========================
+
+1. Busca un sitio silencioso (sin ventilador, tele ni eco fuerte; una habitación con cortinas o un armario
+   con ropa va muy bien). Ponte a un palmo del micrófono. Vale el móvil o la Grabadora de sonido de Windows.
+2. Lee el texto de abajo con el tono que usarías en tus vídeos: natural, con energía, sin leer "de corrido".
+   Unos 20-30 segundos. Si te equivocas, sigue: luego se puede repetir.
+3. Guarda el archivo en esta carpeta (assets\voz_referencia) con el nombre que quieras:
+   mi_voz.wav, mi_voz.m4a o mi_voz.mp3 sirven.
+4. Ejecuta probar_voz_clonada.bat y escucha muestras_voz\clon_*.wav
+
+TEXTO PARA LEER
+---------------
+
+Hola, ¿qué tal? Hoy te traigo cinco herramientas gratuitas que me han ahorrado muchísimas horas de trabajo.
+La primera es sencilla, pero increíblemente útil: organiza tus proyectos en un par de clics.
+¿Y lo mejor? Funciona en tu propio ordenador, sin pagar nada y sin regalar tus datos.
+Quédate hasta el final, porque la última te va a sorprender. ¡Vamos allá!
+
+Nota: el audio que genera Chatterbox incluye una marca de agua inaudible (PerTh, de Resemble AI) que
+permite detectar que es sintético. No se oye ni afecta a YouTube.
+Usa sólo tu propia voz o la de alguien que te haya dado permiso expreso.
